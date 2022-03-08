@@ -14,6 +14,11 @@
     <div class="container-fluid pt-4">
         <h2>Berita Hari Ini!</h2>
         <table class="table table-dark table-striped">
+            <tr>
+                <th>Judul </th>
+                <th>Konten</th>
+            </tr>
+
         </table>
 
     </div>
